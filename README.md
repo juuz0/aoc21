@@ -7,3 +7,4 @@ Just placing these here so I don't get lazy and drop it :+1:
 ## Progress
 
 - [x] Day 1
+- [x] Day 2
